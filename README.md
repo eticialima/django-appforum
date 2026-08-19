@@ -1,4 +1,4 @@
-### Previa
+### django-appforum
 
 <img src="git/demo.png?raw=true"/> 
  
@@ -26,9 +26,4 @@ python manage.py migrate
 python manage.py createsuperuser --username="admin" --email=""
 ```
 
-The application will be running on port 8000.
-
-
-### Thanks ❤️
-[@eticialima](https://www.instagram.com/eticialima) 
-
+The application will be running on port 8000. 
